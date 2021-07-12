@@ -1,2 +1,2 @@
 # dockertest
-
+echo command output
